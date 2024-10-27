@@ -1,0 +1,95 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(209, 209, 209);
+}
+
+h1 {
+    text-align: center;
+    margin-top: 0;
+    padding-top: 20px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+p{
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+#container{
+    width: 400px;
+    line-height: 2;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    border: 1px solid rgb(235, 14, 202);
+    border-radius: 10px;
+    background-color: rgb(240, 111, 197);
+    
+}
+
+table,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+tr, td, th {
+    padding: 5px;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 350;
+    font-style: normal;
+    
+}
+
+th {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+}
+
+table {
+    margin: auto;
+    margin-top: 10px;
+    
+}
+
+#divisor {
+    margin-left: 15px;
+}
+
+#btn {
+    margin-top: 15px;
+    border-radius: 20px;
+    border: 1px solid gray;
+    padding: 5px;
+    background-color: rgb(119, 255, 156);
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+}
+
+.bgcontainer {
+    border-bottom-left-radius: 45%;
+    border-bottom-right-radius: 45%;
+    background-color: yellow;
+}
+
+label {
+    font-size: 12pt;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 350;
+    font-style: normal;
+}
+
+
+
